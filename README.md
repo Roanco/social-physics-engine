@@ -1,4 +1,4 @@
-# ⚡ Social Physics Engine
+# ⚡ Kanban Physics Engine
 
 **A high-performance simulation engine implementing proven Six Sigma Yellow Belt Kanban methodology**
 
@@ -100,8 +100,8 @@ Determines when to trigger replenishment.
 
 ```bash
 # Clone the repository
-git clone https://github.com/Roanco/social-physics-engine.git
-cd social-physics-engine
+git clone https://github.com/Roanco/kanban-physics-engine.git
+cd kanban-physics-engine
 
 # Install dependencies
 pip install -r requirements.txt
